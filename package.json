@@ -1,0 +1,44 @@
+{
+  "name": "totality-crop",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "./",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@headlessui/react": "^2.1.2",
+    "@radix-ui/react-hover-card": "^1.1.1",
+    "@reduxjs/toolkit": "^2.2.7",
+    "appwrite": "^15.0.0",
+    "clsx": "^2.1.1",
+    "cookies-next": "^4.2.1",
+    "framer-motion": "^11.3.19",
+    "mini-svg-data-uri": "^1.4.4",
+    "next": "14.2.5",
+    "next-auth": "^5.0.0-beta.20",
+    "node-appwrite": "^13.0.0",
+    "nodemailer": "^6.9.14",
+    "nookies": "^2.5.2",
+    "prop-types": "^15.8.1",
+    "qss": "^3.0.0",
+    "razorpay": "^2.9.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hook-form": "^7.52.1",
+    "react-icons": "^5.2.1",
+    "react-redux": "^9.1.2",
+    "react-toastify": "^10.0.5",
+    "redux": "^5.0.1",
+    "tailwind-merge": "^2.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1"
+  }
+}
